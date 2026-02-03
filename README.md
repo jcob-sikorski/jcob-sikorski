@@ -9,10 +9,10 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I want to build systems that matter. My current focus is **Java Spring Boot** positions within complex enterprise systems—the kind where architecture decisions compound over time and poor choices create exponential technical debt. **It's exciting!**
 
-### 🧠 My Engineering Philosophy
+### My Philosophy
 My background as a founder has taught me that **software without a defensible moat is just expensive maintenance.**
 * **Context is King:** Technology without context is waste. I've learned that the best solution isn't always the most sophisticated—it’s the one that solves the right problem for the right user.
 * **Impact over Elegance:** Understanding business context changes how you write code. You stop optimizing for elegance and start optimizing for impact.
