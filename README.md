@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-I want to build systems that matter. My current focus is Python, Go, Java, TypeScript SWE positions - the kind where architecture decisions compound over time and poor choices create exponential technical debt.
+I want to build systems that matter. My current focus is Python, Go, SWE positions - the kind where architecture decisions compound over time and poor choices create exponential technical debt.
 
 ### My Philosophy
 My background as a founder has taught me that **software without a defensible moat is just expensive maintenance.**
